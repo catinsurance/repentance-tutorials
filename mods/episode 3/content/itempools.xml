@@ -1,5 +1,5 @@
 <ItemPools>
-    <Pool name="treasure">
-        <Item Id="2" Weight="1" DescreaseBy="1" RemoveOn="0.1" />
-    </Pool> 
+    <Pool Name="treasure">
+        <Item Name="Big Red Button" Weight="1" DecreaseBy="1" RemoveOn="0.1" />
+    </Pool>
 </ItemPools>
