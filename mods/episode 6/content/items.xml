@@ -1,0 +1,3 @@
+<items gfxroot="gfx/items/" version="1">
+    <passive id="0" name="Exclamation Mark" gfx="exclamation_mark_item.png" description="What a surprise!" quality="0"/>
+</items>

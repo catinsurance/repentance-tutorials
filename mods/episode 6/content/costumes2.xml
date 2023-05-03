@@ -1,0 +1,3 @@
+<costumes anm2root="gfx/characters/">
+    <costume id="0" anm2path="exclamation_mark_item.anm2" type="passive" priority="0" />
+</costumes>
