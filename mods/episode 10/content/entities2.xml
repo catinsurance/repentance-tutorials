@@ -1,0 +1,11 @@
+<entities anm2root="gfx/" version="5" deathanm2="gfx/enemy_death_portraits.anm2">
+    <entity name="Level 2 Roundy"
+    id="678" anm2path="monsters/roundy2/roundy2.anm2" portrait="0"
+    collisionMass="100" collisionRadius="20" friction="1"
+    numGridCollisionPoints="8" shadowSize="0" champion="1"
+    baseHP="22" stageHP="0" collisionDamage="1">
+        <gibs amount="6" blood="1" eye="1" gut="1" />
+        <bestiary anim="Idle" transform="0,0,1" />
+        <devolve id="276.0.0" weight="1" />
+    </entities>
+</entities>
