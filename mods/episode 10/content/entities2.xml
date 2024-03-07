@@ -7,5 +7,5 @@
         <gibs amount="6" blood="1" eye="1" gut="1" />
         <bestiary anim="Idle" transform="0,0,1" />
         <devolve id="276.0.0" weight="1" />
-    </entities>
+    </entity>
 </entities>
