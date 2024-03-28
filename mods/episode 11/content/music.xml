@@ -1,0 +1,3 @@
+<music root="music/">
+    <track name="Chocobo" path="chocobo.ogg" loop="true" />
+</music>

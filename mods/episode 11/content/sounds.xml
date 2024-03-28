@@ -1,0 +1,5 @@
+<sounds root="sfx/">
+    <sound name="Gorp">
+        <sample weight="1" path="gorp.wav" />
+    </sound>
+</sound>
