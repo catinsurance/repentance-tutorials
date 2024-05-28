@@ -1,0 +1,6 @@
+<entities anm2root="gfx/" version="5">
+
+    <entity name="Friend Frankie" id="3" anm2path="familiar_friend_frankie.anm2"
+    tags="cansacrifice" shadowSize="11" friction="1" />
+
+</entities>
